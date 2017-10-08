@@ -1,0 +1,57 @@
+
+#selfportrait{
+
+	float:right;
+	float:top;
+	width:300px;
+	height:350px;
+	top: 0px;
+   	right: 30px;
+    position: absolute;
+    -ms-transform: rotate(356deg); /* IE 9 */
+    -webkit-transform: rotate(356deg); /* Chrome, Safari, Opera */
+    transform: rotate(356deg);
+
+    
+}
+
+body{
+	background: url("https://www.abco.sa.com/wp-content/uploads/2016/03/JOES-Website-Background-light-grey.jpg")
+
+}
+
+
+.information{
+    border-left:solid;
+    padding-left: 35px;
+    overflow: hidden;
+    float right;
+    font-family:'Open Sans';
+}
+
+p{
+	font-size: 20px;
+}
+
+.phone{
+	font-weight:bold;
+}
+
+#emailtext{
+	color:gray;
+}
+
+#Headings{
+	font-family: 'Helvetica Neue';
+    float: left;
+    padding-right: 30px;
+    width: 120px;
+
+
+}
+
+.TitleBOX{
+	margin-bottom: 25px;
+    margin-top: 20px;
+    padding-left: 75px;
+}
